@@ -1,0 +1,19 @@
+{
+  "name": "basic-npm",
+  "version": "1.0.0",
+  "description": "basic project npm set-up",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SteveMustanski/basic-npm.git"
+  },
+  "author": "Steve Mustanski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SteveMustanski/basic-npm/issues"
+  },
+  "homepage": "https://github.com/SteveMustanski/basic-npm#readme"
+}
